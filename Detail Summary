@@ -1,0 +1,59 @@
+=== Summer Internship Journey at Inara Technologies – Week 1 of 6===
+
+I am excited to share that I have started my 6-week Summer Internship at Inara Technology. During the first week, I focused on building a strong foundation in Linux system administration, DevOps, containerization, and Kubernetes fundamentals.
+
+Some of the key concepts and tools I have learned so far include:
+
+🔹 Linux Basics
+
+* Navigating the Linux file system using commands such as pwd, ls, and cd
+* Creating and managing files and directories with mkdir and touch
+* Understanding file permissions and ownership using chmod and chown
+* User and group management with useradd and groupadd
+* Working with sudo for administrative tasks
+
+🔹 Text Processing & Scripting
+
+* Searching and filtering data using grep
+* Editing text streams with sed
+* Processing structured data using awk
+* Executing shell scripts and understanding automation basics
+
+🔹 Package & Service Management
+
+* Managing software packages with apt and dpkg
+* Starting, stopping, and monitoring services using systemctl
+* Viewing and analyzing system processes with ps, top, and kill
+
+🔹 System Monitoring & Scheduling
+
+* Exploring logs with journalctl
+* Creating scheduled tasks using cron jobs and systemd timers
+
+🔹 Storage & Networking
+
+* Understanding disk and filesystem management with lsblk, df, and mount
+* Learning secure remote access through SSH, SSH keys, and SCP
+
+🔹 Web Server Administration
+
+* Introduction to Nginx configuration and service management
+
+🔹 RAID Fundamentals
+
+* Basic RAID management concepts using mdadm
+
+🔹 Docker Fundamentals
+
+* Understanding containerization concepts
+* Working with Docker images and containers using docker pull, docker run, and docker ps
+
+🔹 Kubernetes Basics
+
+* Learning core Kubernetes concepts such as Pods and Deployments
+* Managing Kubernetes resources with kubectl commands
+* Deploying and monitoring applications in a Kubernetes environment
+
+This first week has provided me with valuable hands-on exposure to modern infrastructure and DevOps practices. I look forward to learning more advanced topics throughout the remaining weeks of my internship and will continue sharing my progress as I complete additional modules and reports assigned by the company.
+
+#Internship #InaraTechnology #Linux #DevOps #Docker #Kubernetes #Nginx #SystemAdministration #LearningJourney #Technology
